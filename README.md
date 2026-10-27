@@ -23,7 +23,7 @@ By the end of this activity, the following should be achieved:
 
 ---
 
-## 🔹 Problem A: Transpose Operations
+## 🎀 Problem A: Transpose Operations
 
 **Description:**
 A real matrix `R` (3×4) and a complex matrix `Z` (2×3) are defined. For each one, three expressions are computed and displayed: `transpose(A)`, `A'`, and `A.'`. The outputs are compared to see how the operators behave on real versus complex data.
@@ -66,7 +66,7 @@ Z.'
 
 ---
 
-## 🔹 Problem B: Two Methods for a Linear System
+## 🎀 Problem B: Two Methods for a Linear System
 
 **Description:**
 The following system is solved:
